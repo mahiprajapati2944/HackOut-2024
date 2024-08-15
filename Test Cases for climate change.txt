@@ -1,0 +1,17 @@
+Test Cases for climate change
+
+1) As we can see that from the year 1984 to 2008 the CO2 concentration level has been increased from 340.17 to 388.5 and average increase is 363.2267532467532.
+
+2) As we can see that from the year 1984 to 2008 the CH4 concentration level has been increased from 1629.89 to 1814.18 and average increase is 1749.824512987013.
+
+3) As we can see that from the year 1984 to 2008 the N2O concentration level has been increased from 303.677 to 322.182 and average increase is 312.3918344155844.
+
+4) As we can see that from the year 1984 to 2008 the CFC-11 concentration level has been increased from 191.324 to 271.494 and average increase is 251.97306818181815.
+
+5) As we can see that from the year 1984 to 2008 the Aerosols concentration level has been increased from 0.0016 to 0.1494 and average increase is 0.016657142857142863.
+
+6) The data from 1984 to 2008 shows a concerning upward trend in various greenhouse gases, indicating ongoing human impact on climate change. The increases in CO2, CH4, N2O, CFC-11, and aerosols highlight the urgent need for global action to mitigate emissions through policy changes, technological advancements, and sustainable practices.
+
+
+
+ 

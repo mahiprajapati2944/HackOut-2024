@@ -1,0 +1,9 @@
+Test case for asteroid
+1) Top 5 Objects by Maximum Possible Impacts names are "2008 EM68","2009 VZ39","2014 JT79","2011 CF66" AND "2016 QY84".
+
+2) the avg of Cumulative Palermo Scale and Maximum Palermo Scale is "-6.33".
+
+3) top 5 object steroid velocity is "2008 FF5","2016 GU2","2011 BT59","2013 WM" AND "2001 CA21".
+
+4) The avg of Asteroid Magnitude is "25.70".
+
